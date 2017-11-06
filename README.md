@@ -1,2 +1,2 @@
-# GridProblem
+# Event Plot
 viagogo coding contest
